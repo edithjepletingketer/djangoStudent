@@ -1,1 +1,1 @@
-# djangoStuent
+# djangoStudent
